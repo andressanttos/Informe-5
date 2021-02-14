@@ -18,7 +18,7 @@
 
 3. DIAGRAMAS
 
-Diagrama  general (circcuit)
+Diagrama  general (circuito)
 
 ![](https://github.com/andressanttos/Informe-5/blob/main/img/diagrama.png)
 
