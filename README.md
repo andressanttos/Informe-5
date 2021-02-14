@@ -40,7 +40,7 @@ Circuito equivalente de Thévenin  (medición voltaje y  corriente)
 
 4. LISTA DE COMPONENTES
 
-![](img/equ
+![](https://github.com/andressanttos/Informe-5/blob/main/img/componentes.png)
 
 5. EXPLICACIÓN 
 
