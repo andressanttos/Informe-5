@@ -1,7 +1,7 @@
 # Informe 5
 1. OBJETIVOS 
 
-• 
+• Utilizar el teorema de Thevenin 
 
 • 
 
