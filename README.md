@@ -12,7 +12,7 @@
 2.MARCO TEÓRICO
 
 
-![](
+![](img/marco.jpg)
 
 
 
