@@ -1,20 +1,23 @@
 # Informe 5
 1. OBJETIVOS 
 
-• Utilizar el teorema de Thevenin 
+• Emplear el teorema de Thevenin  para representar el circuito mostrado en el laboratorio como un circuito dual o equivalente, empleando una sola fuente de voltaje en serie con una resistencia equivalente. Analizar el circuito, y deducir los errores porcentuales entre el cálculo teórico y práctico,  y entre la aplicacion del circuito equivalente de Thevenin y el circuito normal. 
 
-• 
+• Conocer más  a fondo los fundamentos básicos de este teorema y su aplicación en la vida real.
 
-• 
+• Encontrar los parametros previos, necesarios para el calculo (Voltaje de thevenin, Resistencia equivalente de thevenin)
 
-
+• Comprobar experimentalmente que se cumplan los teoremas en estudio.
 
 2.MARCO TEÓRICO
 
+El teorema de Thevenin proporciona un método para simplificar un circuito a una forma equivalente estándar. Se utiliza para hacer más sencillo el análisis de circuitos complejos.
 
 ![](img/marco.jpg)
 
+El equivalente de Thevenin de cualquier circuito depende de la ubicación de las dos terminales de salida desde donde se “ve” dicho circuito. De esta forma se pude clasificar en:
 
+![](img/marco2.jpg)
 
 3. DIAGRAMAS
 
@@ -80,7 +83,7 @@ Calculo de errores
 
 • Floyd Thomas L, “Principios de Circuitos Eléctricos”, 8 ed. 2007 .Pearson Educación de México, S.A. de C.V. México, pp. 281-333.
 
-• Alulema Darwin (2020). Capítulo 3. Teorema de Superposición. 
+• Alulema Darwin (2020). Capítulo 3. Teorema de Thevenin. Pags 48-55 
 
 • 
 
