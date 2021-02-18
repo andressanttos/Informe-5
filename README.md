@@ -7,7 +7,7 @@
 
 • Encontrar los parametros previos, necesarios para el calculo (Voltaje de thevenin, Resistencia equivalente de thevenin)
 
-• Comprobar experimentalmente que se cumplan los teoremas en estudio.
+• Comprobar experimentalmente que se cumpla el teorema en estudio.
 
 2.MARCO TEÓRICO
 
